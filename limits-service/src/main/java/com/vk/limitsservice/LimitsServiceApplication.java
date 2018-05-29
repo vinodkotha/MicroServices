@@ -28,8 +28,8 @@ public class LimitsServiceApplication {
 	    private String msg;
 	 
 	    @RequestMapping("/msg")
-	    int getMsg() {
-	        return config.getMax();
+	    public int getMsg() {
+	        return config.getMin();
 	    }
 	}
 }
