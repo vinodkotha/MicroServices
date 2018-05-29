@@ -1,4 +1,4 @@
-package com.vk.micrservices.limitsservice;
+package com.vk.limitsservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

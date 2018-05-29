@@ -1,4 +1,4 @@
-package com.vk.micrservices.limitsservice.bean;
+package com.vk.limitsservice.bean;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

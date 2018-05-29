@@ -1,11 +1,11 @@
-package com.vk.micrservices.limitsservice;
+package com.vk.limitsservice;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.vk.micrservices.limitsservice.bean.Configuration;
-import com.vk.micrservices.limitsservice.bean.LimitServiceConfig;
+import com.vk.limitsservice.bean.Configuration;
+import com.vk.limitsservice.bean.LimitServiceConfig;
 
 @RestController
 public class LimitConfigController {

@@ -1,4 +1,4 @@
-package com.vk.micrservices.limitsservice.bean;
+package com.vk.limitsservice.bean;
 
 public class LimitServiceConfig {
 
